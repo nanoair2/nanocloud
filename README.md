@@ -2,7 +2,7 @@
 
 官方网站①：[cloud.52iplc.com](https://cloud.52iplc.com)  
 官方网站②：[nanoair.github.io](https://nanoair.github.io)  
-官方频道：[cnanoceo.github.io](https://nanoceo.github.io)
+官方频道：[nanoceo.github.io](https://nanoceo.github.io)
 
 ## 简介
 
