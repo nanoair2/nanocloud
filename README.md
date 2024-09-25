@@ -14,6 +14,8 @@ NanoCloud 是一家拥有先进技术的网络服务提供商，旨在为用户�
 
 机场开发的TG BOT，可以在TG购买套餐，管理自己的数据，相当强大。  
 
+机器人地址: [@NanoAir_bot](https://t.me/NanoAir_bot)    
+
 ![image](https://raw.githubusercontent.com/nanoair2/nanocloud/main/1.png)  
 
 对于使用者来说，NanoCloud 提供了多种套餐选择，其中包括了  
