@@ -1,6 +1,9 @@
-# NanoCloud 机场官网地址
+# NanoCloud机场官网地址
 
-最新地址：[cloud.52iplc.com](https://cloud.52iplc.com)
+官方网站①：[cloud.52iplc.com](https://cloud.52iplc.com)
+官方网站②：[nanoair.github.io](https://nanoair.github.io)
+官方频道：[cnanoceo.github.io](https://nanoceo.github.io)
+
 
 ## 套餐列表
 
@@ -32,3 +35,5 @@
 </tr>
 </tbody>
 </table>
+
+## Tg频道
